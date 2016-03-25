@@ -1,0 +1,7 @@
+app:
+  port: 3000
+  scale: 2
+firebase:
+  key: ""
+  domain: ""
+  storageBucket: ""
